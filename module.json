@@ -4,10 +4,10 @@
     "title": "Player Lockout",
     "description": "Prevent User Logins",
     "authors": [{"name":"Xaukael"}],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "compatibility": {
         "minimum": "10",
-        "verified": "10"
+        "verified": "11"
       },
     "scripts": ["player-lockout.js"],
     "dependencies": [],
